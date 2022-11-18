@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 import { Button } from 'ui/atoms'
-// import { Button } from 'ui'
+// import { Button } from 'ui' Works !
 
 function App() {
   return (
